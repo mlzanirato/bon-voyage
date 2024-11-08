@@ -20,7 +20,7 @@
         </div>
 
         <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/X9pvkGWZCLE?si=odBmVmJD7cJAvC4T" />
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/X9pvkGWZCLE?si=odBmVmJD7cJAvC4T">
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -31,16 +31,16 @@
         <h2>RUN JIN</h2>
         <div class="categoria-videos">
             <a href="https://www.youtube.com/embed/ybBPvd5Qt_M?si=eokvakpcLNj2jLZg">
-                <img src= https://images.app.goo.gl/DBSjFxyGbE7S9swo9/>
+                <img src= "https://img.youtube.com/vi/X9pvkGWZCLE/maxresdefault.jpg"/>
             </a>
             <a href="https://www.youtube.com/embed/lUZF5MbT6-8?si=OjN0RCQcPfNSwdpy">
-                <img src="https://images.app.goo.gl/DBSjFxyGbE7S9swo9" />
+                <img src="https://img.youtube.com/vi/lUZF5MbT6-8/maxresdefault.jpg" />
             </a>
             <a href="https://youtu.be/JliAZvhJpl8?si=yLzzuQYQG6QKA4j5">
-                <img src="https://images.app.goo.gl/DBSjFxyGbE7S9swo9" />
+                <img src="https://img.youtube.com/vi/JliAZvhJpl8/maxresdefault.jpg" />
             </a>
             <a href="https://youtu.be/v5rUGagE910?si=LI-CrKkYhowWVsGk">
-                <img src= "https://images.app.goo.gl/DBSjFxyGbE7S9swo9/>
+                <img src= "https://img.youtube.com/vi/v5rUGagE910/maxresdefault.jpg" />
             </a>
         </div>
     </section>
@@ -48,3 +48,4 @@
 </body>
 
 </html>
+      
